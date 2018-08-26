@@ -1,2 +1,3 @@
 # hackthebox
-MachineName - Ip pair file for retired boxes
+MachineName - Ip pair 
+List of retired boxes
